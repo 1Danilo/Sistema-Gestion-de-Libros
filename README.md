@@ -120,6 +120,16 @@ Asegúrate de tener instalados los siguientes paquetes:
 - passlib
 - Otros paquetes necesarios
 
+**Instalar el entorno virtual:**
+```bash
+pip install virtualenv
+```
+
+**Activar el entorno virtual:**
+```bash
+.\venv\Scripts\activate
+```
+
 **Instalar Dependencias:**
 
 ```bash
