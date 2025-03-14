@@ -122,7 +122,7 @@ Asegúrate de tener instalados los siguientes paquetes:
 
 **Instalar el entorno virtual:**
 
-Ejecute terminal 1: Siste-Gestion-de-Libros
+Ejecute terminal 1: Sistema-Gestion-de-Libros
 
 ```bash
 pip install virtualenv
@@ -151,7 +151,7 @@ uvicorn main:app --reload
 
 **Instalar Dependencias:**
 
-Ejecute terminal 2: frontend:
+Ejecute terminal 2: frontend
 
 ```bash
 npm install
