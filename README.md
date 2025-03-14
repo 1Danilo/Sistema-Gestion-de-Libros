@@ -102,7 +102,7 @@ Antes de abrir una nueva terminal para el Frontend, es necesario configurar VSCo
 ## Configuración en VSCode
 
 1. **Descargar/Clonar el Proyecto:**  
-   Clona o descarga la carpeta completa llamada `Gestion-de-Libros-main`. 📂
+   Clona o descarga la carpeta completa llamada `Sistema-Gestion-de-Libros-main`. 📂
 
 2. **Agregar la Carpeta del Frontend al Workspace:**  
    - Abre VSCode y en la parte superior selecciona **File** (o **Archivos**) > **Add Folder to Workspace...**  
